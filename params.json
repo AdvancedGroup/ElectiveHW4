@@ -1,0 +1,6 @@
+{
+  "name": "Electivehw4",
+  "tagline": "",
+  "body": "###Task  \r\nIn this assignment, you will write a simple chasing strategy.  \r\n\r\n![reference picture](https://s31.postimg.org/ufgr0i8or/001.png)  \r\n\r\nYour enemy will chase after player as well as avoide the obstacles.    \r\n\r\n\r\n\r\n**Here are some references:**   \r\nhttp://docs.unity3d.com/Manual/Navigation.html   \r\nhttps://www.raywenderlich.com/4946/introduction-to-a-pathfinding    \r\n \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
